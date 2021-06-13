@@ -23,8 +23,16 @@ file_folder_mapping = {
     '.ppt': 'pdf_word_ppt',
     '.exe': 'others',
     '.xls': 'excel',
-    'xlsm': 'excel',
-    'docx': 'pdf_word_ppt'
+    '.xlsm': 'excel',
+    '.docx': 'pdf_word_ppt',
+    '.csv': 'code',
+    '.jfif': 'images',
+    '.PDF': 'pdf_word_ppt',
+    '.pptx': 'pdf_word_ppt',
+    '.PNG': 'images',
+    '.txt': 'others',
+    '.rar': 'others'
+
 }
 
 files = os.listdir(path)
