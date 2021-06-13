@@ -1,6 +1,6 @@
 # Download Folder Organization
 
-### The project consists in code that create new folders and organize all your donwloaded files in these folders.
+### The project consists in a code that create new folders and organize all your donwloaded files in these folders.
 
 How to run the code:
 
